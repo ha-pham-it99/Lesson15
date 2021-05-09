@@ -21,5 +21,7 @@ public class MainActivity extends AppCompatActivity {
         // ha code lan 4
 
         // ha code ne
+
+        //nhanh demo
     }
 }
