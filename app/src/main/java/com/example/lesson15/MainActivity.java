@@ -14,5 +14,6 @@ public class MainActivity extends AppCompatActivity {
         // xin chao
 
         // ha code lan 2
+        // ha code lan 3
     }
 }
